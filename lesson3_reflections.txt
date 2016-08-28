@@ -16,3 +16,7 @@ A: It helps is comparing the changes in code done by lets say a collaborator for
 
 5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 A: I would have used Dropbox or Email. Learning git & github, makes them look out of sync for collaboration purpose.
+
+6. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+A: When Im trying something new and need feedback before implementing it actual software
