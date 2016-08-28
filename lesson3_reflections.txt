@@ -13,3 +13,6 @@ Fork will be used to get repository from another user on github and work on the 
 
 4. What is the benefit of having a copy of the last known state of the remote stored locally?
 A: It helps is comparing the changes in code done by lets say a collaborator for example and choose the best change to resolve the conflicts, if any.
+
+5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A: I would have used Dropbox or Email. Learning git & github, makes them look out of sync for collaboration purpose.
