@@ -10,3 +10,6 @@ A: Because of the flexibility it offers and choice it offers to update things as
 A: Fork is a copy of file on Github server. Whereas as clone is a copy of the file from github server on local computer. Also, Cloning refers to making a copy of the existing files on local computer, as well. Branches are addition of files to an existing files, as possible future implementations, without disturbing the present files. 
 
 Fork will be used to get repository from another user on github and work on the code.Cloning will be used to get those files from github to the local system for making necessary modifications. Branching will be used to make possible add-ons and features, with out effecting the master branch of the git.
+
+4. What is the benefit of having a copy of the last known state of the remote stored locally?
+A: It helps is comparing the changes in code done by lets say a collaborator for example and choose the best change to resolve the conflicts, if any.
